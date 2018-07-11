@@ -1,1 +1,2 @@
-parseInt('nonsense!', 10)
+var number=5
+number++
